@@ -1,79 +1,163 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Mohamed%20Ahmed&fontSize=70&color=0:2c3e50,100:000000&stroke=3498db&strokeWidth=1&animation=fadeIn" width="100%" />
 
-  <br />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6A0DAD,100:1B1B3A&text=Amany%20Hussein&fontColor=ffffff&fontSize=65&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cascadia+Code&size=28&duration=3000&pause=1000&color=3498db&center=true&vCenter=true&width=600&lines=+Backend+Developer;+ASP.NET+Core+Expert;+Clean+Architecture+Advocate;+SQL+Performance+Tuning" alt="Typing SVG" />
-  
-  <hr width="50%" />
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=mohamedahmed2005&label=Profile%20Views&color=4a90e2&style=flat-square" alt="Views" />
-    <img src="https://img.shields.io/github/followers/mohamedahmed2005?label=Follow&style=social" alt="Followers" />
-  </p>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=28&duration=3000&pause=1200&color=B983FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;ASP.NET+Core+Developer;Always+Learning+Something+New+%F0%9F%92%9C" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Amany-Hussein&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+
 </div>
 
 ---
 
-### Curriculum Vitae
-<p align="left">
-  <a href="https://drive.google.com/file/d/1Ib2q4ZGviIAUmMkozBEQGSlZfT46RSrK/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download-My_Resume-3498db?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
+# 💜 About Me
 
+Hi! I'm **Amany Hussein**, a passionate **Senior Information Systems Student** at the **Faculty of Computers and Artificial Intelligence, Cairo University**.
 
----
+I enjoy building scalable backend applications, designing databases, and solving programming problems. My main interest is creating clean, maintainable software using modern backend technologies.
 
-### About Me
-- **Junior IS Student** at the Faculty of Computers and AI, Cairo University.
-- **Backend Developer** specializing in building scalable systems with **ASP.NET Core**.
-- Deeply interested in **Database Engineering**, Query Optimization, and ETL processes (SSIS).
-- **Competitive Programmer** active on Codeforces and LeetCode.
-- Currently focused on refining **Clean Architecture** patterns in enterprise-level applications.
+- 🎓 Senior IS Student @ Cairo University
+- 💻 Backend Developer
+- 🚀 ASP.NET Core Enthusiast
+- 🏛️ Interested in Clean Architecture
+- 🗄️ Passionate about SQL Server & Database Design
+- 📊 Interested in Query Optimization & ETL (SSIS)
+- 🧩 Competitive Programmer
+- 🌱 Currently learning more about ASP.NET Core and enterprise backend development
 
 ---
 
-### Tech Stack & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,py,cpp,git,visualstudio,vscode,postman&theme=dark" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" /> 
-</p>
-
----
-
-### GitHub Statistics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedahmed2005&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmed2005&layout=compact&theme=transparent" />
-</p>
+# 📄 Resume
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamedahmed2005&theme=transparent&hide_border=true" />
+<a href="https://drive.google.com/file/d/1fZr2uLZeyyFAE6ZHrVqa2cX4KS-7fPu3/view?usp=sharing">
+<img src="https://img.shields.io/badge/Download%20Resume-PDF-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### Contribution Activity
+# 🚀 Tech Stack
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohamedahmed2005/mohamedahmed2005/output/pacman-contribution-graph-dark.svg" width="100%" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,java,php,js,html,css,mysql"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,docker"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
+
 </div>
 
 ---
 
-### Let's Connect!
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amany-Hussein&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amany-Hussein&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Amany-Hussein&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+## 🏋️ Gym Management System
+
+**ASP.NET Core MVC | Entity Framework Core | SQL Server**
+
+A web-based application for managing gym operations including:
+
+- Member Management
+- Trainer Scheduling
+- Membership Plans
+- Session Booking
+- Authentication
+- SQL Server Database
+
+🔗 Repository
+
+https://github.com/Amany-Hussein/GymProject-MVC
+
+---
+
+## 🍽️ Recipe Finder
+
+**Laravel | PHP | REST API**
+
+Recipe Finder is a web application that allows users to:
+
+- Search recipes
+- Discover meals
+- View ingredients
+- Read cooking instructions
+- Consume third-party Food APIs
+
+🔗 Repository
+
+https://github.com/Amany-Hussein/Recipe-Finder
+
+---
+
+# 💻 Competitive Programming
+
 <p align="center">
-<a href="https://linkedin.com/in/mohamed-ahmed-ba0815307">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://codeforces.com/profile/Amondatory">
+<img src="https://img.shields.io/badge/Codeforces-Profile-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-<a href="mailto:ahmd.mohamed200515@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://codeforces.com/profile/hamood_ahmed">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-<a href="https://leetcode.com/mohamedahmed2005">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
+
 </p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:amanyhussein2212005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amany-hussein-7855312a1/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/Amondatory">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
+
+
+
+<div align="center">
+
+### 💜 *"Code with purpose, learn with passion, and grow every day."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:1B1B3A&height=120&section=footer"/>
+
+</div>
+```
