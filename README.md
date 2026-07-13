@@ -83,22 +83,17 @@ I enjoy building scalable backend applications, designing databases, and solving
 
 # 🌟 Featured Projects
 
-## 🏋️ Gym Management System
+### 🔹 Gym Management System
 
-**ASP.NET Core MVC | Entity Framework Core | SQL Server**
+✨ ASP.NET Core MVC application for gym management and membership tracking
 
-A web-based application for managing gym operations including:
+🏗️ Implemented Layered Architecture, Repository Pattern, Generic Repository, Unit of Work, and Service Layer patterns
 
-- Member Management
-- Trainer Scheduling
-- Membership Plans
-- Session Booking
-- Authentication
-- SQL Server Database
+🔐 Integrated ASP.NET Identity for Authentication & Authorization
 
-🔗 Repository
+🛠️ Tech: ASP.NET Core MVC, C#, EF Core, SQL Server, AutoMapper
 
-https://github.com/Amany-Hussein/GymProject-MVC
+🔗 https://github.com/Amany-Hussein/GymProject-MVC
 
 ---
 
