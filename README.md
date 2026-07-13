@@ -93,7 +93,7 @@ I enjoy building scalable backend applications, designing databases, and solving
 
 🛠️ Tech: ASP.NET Core MVC, C#, EF Core, SQL Server, AutoMapper
 
-🔗 https://github.com/Amany-Hussein/GymManagemt
+🔗 https://github.com/Amany-Hussein/Gym-Management.git
 
 ---
 
