@@ -156,7 +156,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Status
 
 <p align="center">
 
@@ -218,10 +218,3 @@
 
 ---
 
-<div align="center">
-
-### 💖 Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and connect with me.
-
-</div>
