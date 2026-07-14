@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Amany%20Hussein&fontSize=50&color=0:ff9a9e,50:fbc2eb,100:a18cd1&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=26&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;C%23+%7C+.NET+Developer;Web+API+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=26&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Developer"/>
 
 <img src="https://komarev.com/ghpvc/?username=Amany-Hussein&label=Profile%20Views&color=ff70a6&style=for-the-badge"/>
 
@@ -24,8 +24,6 @@
 
 ---
 
-# 🎨 Tech Stack
-
 ## 💻 Languages
 
 <p align="center">
@@ -40,7 +38,11 @@
 
 <img src="https://img.shields.io/badge/PHP-FF70A6?style=for-the-badge&logo=php&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/JavaScript-F9C74F?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/SQL-43AA8B?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prolog-FF99C8?style=for-the-badge"/>
 
 </p>
 
@@ -91,6 +93,8 @@
 <img src="https://img.shields.io/badge/SQL_Server-00B4D8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Entity_Framework_Core-90DBF4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 </p>
 
