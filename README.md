@@ -34,7 +34,7 @@ I enjoy building scalable backend applications, designing databases, and solving
 # 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1GPgD38a8YmX5M9E-ffzvD753LLfLNABR/view?usp=sharing">
+  <a href="[https://drive.google.com/file/d/1GPgD38a8YmX5M9E-ffzvD753LLfLNABR/view?usp=sharing]">
     <img src="https://img.shields.io/badge/Download%20CV-8338EC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
