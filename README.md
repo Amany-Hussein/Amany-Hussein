@@ -1,83 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6A0DAD,100:1B1B3A&text=Amany%20Hussein&fontColor=ffffff&fontSize=65&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Amany%20Hussein&fontSize=50&color=0:ff9a9e,50:fbc2eb,100:a18cd1&animation=fadeIn"/>
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=26&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;C%23+%7C+.NET+Developer;Web+API+Enthusiast"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=28&duration=3000&pause=1200&color=B983FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;ASP.NET+Core+Developer;Always+Learning+Something+New+%F0%9F%92%9C" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Amany-Hussein&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Amany-Hussein&label=Profile%20Views&color=ff70a6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💜 About Me
+# 💫 About Me
 
-Hi! I'm **Amany Hussein**, a passionate **Senior Information Systems Student** at the **Faculty of Computers and Artificial Intelligence, Cairo University**.
+🎓 Fourth-year **Information Systems (IS)** Student
 
-I enjoy building scalable backend applications, designing databases, and solving programming problems. My main interest is creating clean, maintainable software using modern backend technologies.
+💻 Passionate **Backend Developer** focused on building scalable and maintainable applications.
 
-- 🎓 Senior IS Student @ Cairo University
-- 💻 Backend Developer
-- 🚀 ASP.NET Core Enthusiast
-- 🏛️ Interested in Clean Architecture
-- 🗄️ Passionate about SQL Server & Database Design
-- 📊 Interested in Query Optimization & ETL (SSIS)
-- 🧩 Competitive Programmer
-- 🌱 Currently learning more about ASP.NET Core and enterprise backend development
+⚙️ Skilled in **C#, ASP.NET Core, ASP.NET MVC, Web API, Entity Framework Core, SQL Server, and Laravel.**
+
+🗄️ Interested in **Database Design, REST APIs, Clean Architecture, and Software Design Patterns.**
+
+🚀 Currently improving my Backend Development skills through real-world projects and internships.
 
 ---
 
-# 📄 Resume
+# 🎨 Tech Stack
+
+## 💻 Languages
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/14EBDs4_-oYIlPLFhguQPOvTXjlILP9c0/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download%20CV-8338EC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
+
+<img src="https://img.shields.io/badge/C%23-9B5DE5?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-F77F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-4CC9F0?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PHP-FF70A6?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-43AA8B?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## ⚙️ Backend
 
-<div align="center">
+<p align="center">
 
-### Languages
+<img src="https://img.shields.io/badge/.NET-5A189A?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,java,php,js,html,css,mysql"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-4361EE?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-### Backend
+<img src="https://img.shields.io/badge/ASP.NET_MVC-3A0CA3?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=dotnet"/>
+<img src="https://img.shields.io/badge/Web_API-F72585?style=for-the-badge"/>
 
-### Tools
+<img src="https://img.shields.io/badge/Laravel-FF6B6B?style=for-the-badge&logo=laravel&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,docker"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
-
-</div>
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+## 🧠 Concepts
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amany-Hussein&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+<img src="https://img.shields.io/badge/LINQ-FF006E?style=for-the-badge"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amany-Hussein&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img src="https://img.shields.io/badge/OOP-F15BB5?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/SOLID_Principles-00BBF9?style=for-the-badge"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Design_Patterns-00F5D4?style=for-the-badge"/>
 
-<img src="https://streak-stats.demolab.com?user=Amany-Hussein&theme=midnight-purple&hide_border=true"/>
+<img src="https://img.shields.io/badge/Data_Structures-FEE440?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/Algorithms-F3722C?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL_Server-00B4D8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Entity_Framework_Core-90DBF4?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-4895EF?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F9C74F?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F77F00?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-FCBF49?style=for-the-badge&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Postman-E36414?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Visual_Studio-9B5DE5?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-4CC9F0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
 
 ---
 
@@ -85,62 +132,86 @@ I enjoy building scalable backend applications, designing databases, and solving
 
 ### 🔹 Gym Management System
 
-✨ ASP.NET Core MVC application for gym management and membership tracking
+✨ ASP.NET Core MVC application for gym management and membership tracking.
 
-🏗️ Implemented Layered Architecture, Repository Pattern, Generic Repository, Unit of Work, and Service Layer patterns
+🏗️ Implemented Layered Architecture, Repository Pattern, Generic Repository, Unit of Work, and Service Layer patterns.
 
-🔐 Integrated ASP.NET Identity for Authentication & Authorization
+🔐 Integrated ASP.NET Identity for Authentication & Authorization.
 
-🛠️ Tech: ASP.NET Core MVC, C#, EF Core, SQL Server, AutoMapper
+🛠️ Tech: ASP.NET Core MVC, C#, EF Core, SQL Server, AutoMapper.
 
-🔗 https://github.com/Amany-Hussein/Gym-Management.git
-
----
-
-## 🍽️ Recipe Finder
-
-**Laravel | PHP | REST API**
-
-Recipe Finder is a web application that allows users to:
-
-- Search recipes
-- Discover meals
-- View ingredients
-- Read cooking instructions
-- Consume third-party Food APIs
-
-🔗 Repository
-
-https://github.com/Amany-Hussein/Recipe-Finder
+🔗 https://github.com/Amany-Hussein/Gym-Management
 
 ---
 
-# 💻 Competitive Programming
+### 🔹 Recipe Finder
+
+✨ Laravel web application that allows users to search and explore recipes using third-party Food APIs.
+
+🍽️ Features include recipe search, meal discovery, ingredient details, and cooking instructions.
+
+🛠️ Tech: Laravel, PHP, REST API, MySQL, HTML, CSS, JavaScript.
+
+🔗 https://github.com/Amany-Hussein/Recipe-Finder
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<a href="https://codeforces.com/profile/Amondatory">
-<img src="https://img.shields.io/badge/Codeforces-Profile-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amany-Hussein&show_icons=true&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amany-Hussein&layout=compact&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Amany-Hussein&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amany-Hussein&theme=radical&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/amany-hussein-7855312a1/">
+
+<img src="https://img.shields.io/badge/LinkedIn-FF70A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:amanyhussein2212005@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-FF9770?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 📄 My Resume
 
 <p align="center">
 
-<a href="mailto:amanyhussein2212005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://drive.google.com/file/d/14EBDs4_-oYIlPLFhguQPOvTXjlILP9c0/view?usp=sharing">
 
-<a href="https://www.linkedin.com/in/amany-hussein-7855312a1/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Download%20CV-8338EC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 
-<a href="https://codeforces.com/profile/Amondatory">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </p>
@@ -149,9 +220,8 @@ https://github.com/Amany-Hussein/Recipe-Finder
 
 <div align="center">
 
-### 💜 *"Code with purpose, learn with passion, and grow every day."*
+### 💖 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:1B1B3A&height=120&section=footer"/>
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
-```
