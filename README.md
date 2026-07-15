@@ -202,7 +202,7 @@
 
 <p align="center">
 
-<a href="https://drive.google.com/file/d/14EBDs4_-oYIlPLFhguQPOvTXjlILP9c0/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1YSx3bH-Y_bwFTmLyXVAwez-axLjxJDYS/view?usp=sharing">
 
 <img src="https://img.shields.io/badge/Download%20CV-8338EC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 
